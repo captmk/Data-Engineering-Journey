@@ -40,3 +40,4 @@ lowest_mark = min(marks)
 marks.remove(lowest_mark)
 
 print(f"Final Marks List: {marks}")
+#Improve output formatting
