@@ -1,0 +1,1 @@
+Todayt i learned Left joins in SQL, File Handling in Python. Also the modes like write,append,read and x which is close.
